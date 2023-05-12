@@ -1,0 +1,23 @@
+/* seccion de informacion del dia (foto mas info) de index */
+.info {
+    margin-top: 50px;
+    margin-block: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    gap: 15px;
+    color: white;
+}
+.info img {
+    height: 300px;
+}
+
+/* Tabla posiciones */
+.tabla-posiciones {
+    color: white;
+    margin-left: 150px;
+    margin-right: 150px;
+    margin-block: 50px;
+}
