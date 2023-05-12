@@ -1,1 +1,1 @@
-{"version":3,"sourceRoot":"","sources":["../scss/partials/_navbar.scss","../scss/partials/_carousel.scss"],"names":[],"mappings":";AAAA;AACA;EACI;;;AAEJ;AACA;EACI;;;ACNJ;AACA;EACI","file":"style.css"}
+{"version":3,"sourceRoot":"","sources":["../scss/partials/_navbar.scss","../scss/partials/_carousel.scss","../scss/style.scss"],"names":[],"mappings":"AACA;EACI;;;AAIJ;EACI;;;ACNJ;EACI;;;ACIJ;EACI","file":"style.css"}
